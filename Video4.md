@@ -10,6 +10,8 @@
 
 ### Cara Forking
 
+cara forking ada 2 macam yaitu :
+
 1. Datang ke akun orang lain, dan tekan salah satu file pada repo orang tersebut lalu pencet edit file
 
 ![image](https://user-images.githubusercontent.com/123876878/216760198-4039e536-0112-4358-b27a-c3fafd62d366.png)
