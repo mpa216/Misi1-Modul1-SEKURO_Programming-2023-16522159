@@ -1,6 +1,6 @@
 ### Git Branch and Merge
 
-Ada Cara nyingkat proses git add dengan git commit, yaitu dengan :
+Ada Cara nyingkat proses git add dengan git commit (khusus file yang statusnya modified), yaitu dengan :
 
 git commit -am "message"
 
